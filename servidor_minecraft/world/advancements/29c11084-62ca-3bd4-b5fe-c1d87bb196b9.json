@@ -1,0 +1,168 @@
+{
+  "etched:recipes/misc/music_label": {
+    "criteria": {
+      "has_blank_music_disc": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_root": {
+    "criteria": {
+      "adv_root": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2026-06-19 01:59:02 +0000",
+      "has_black_balloon": "2026-06-19 01:59:02 +0000",
+      "has_lime_balloon": "2026-06-19 01:59:02 +0000",
+      "has_cyan_balloon": "2026-06-19 01:59:02 +0000",
+      "has_light_blue_balloon": "2026-06-19 01:59:02 +0000",
+      "has_gray_balloon": "2026-06-19 01:59:02 +0000",
+      "has_pink_balloon": "2026-06-19 01:59:02 +0000",
+      "has_light_gray_balloon": "2026-06-19 01:59:02 +0000",
+      "has_white_balloon": "2026-06-19 01:59:02 +0000",
+      "has_blue_balloon": "2026-06-19 01:59:02 +0000",
+      "has_yellow_balloon": "2026-06-19 01:59:02 +0000",
+      "has_purple_balloon": "2026-06-19 01:59:02 +0000",
+      "has_orange_balloon": "2026-06-19 01:59:02 +0000",
+      "has_brown_balloon": "2026-06-19 01:59:02 +0000",
+      "has_green_balloon": "2026-06-19 01:59:02 +0000",
+      "has_magenta_balloon": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "nethers_exoticism:nethers_exoticism_adv": {
+    "criteria": {
+      "nethers_exoticism_adv": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/decorations/album_jukebox": {
+    "criteria": {
+      "has_jukebox": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/transportation/jukebox_minecart": {
+    "criteria": {
+      "has_minecart": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2026-06-19 01:59:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2026-06-19 01:59:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2026-06-19 01:59:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2026-06-19 01:59:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2026-06-19 01:59:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:swamp": "2026-06-19 01:59:04 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2026-06-19 02:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-06-19 02:00:29 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
